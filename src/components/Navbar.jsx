@@ -12,7 +12,7 @@ const Navbar = () => {
   );
 
   return (
-    <nav className="bg-base-200">
+    <nav className="">
       <div className="navbar align-element">
         <div className="navbar-start">
           {/* TITLE */}
